@@ -1,0 +1,21 @@
+{
+  "name": "contatooh",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Guilherme Sampaio <santos.gsampaio@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/guilhermesampaio/contatooh",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.4"
+  }
+}
